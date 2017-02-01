@@ -1,0 +1,25 @@
+{
+  "name": "sequalize",
+  "version": "1.0.0",
+  "description": "Sequalize tutorials",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sequalize",
+    "MySq\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cl"
+  ],
+  "author": "Digender Mahara",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "mysql": "^2.13.0",
+    "mysql2": "^1.1.2",
+    "nodemon": "^1.11.0",
+    "sequelize": "^3.30.0"
+  }
+}
